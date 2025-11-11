@@ -15,6 +15,6 @@
      <hr>
      <p> Báo cáo </p>
    </div>
-   <p> Trang web được làm bằng <em>mồ hôi công sức của nhóm 1 </em></p>
+   <p> Trang web được tạo bởi <em> nhóm 1 </em></p>
   </body>
 </html>
