@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset = "utf-8">
-    <title> Nhóm 1 12SĐ </title>
+    <title> <p style="color:red">Nhóm 1 12SĐ </title>
   </head>
   <body>
    <div>
